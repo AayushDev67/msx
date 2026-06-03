@@ -1,1 +1,15 @@
+{
+  "headline": "Nuvio Portal",
+  "pages": [
+    {
+      "items": [
+        {
+          "title": "Launch Nuvio App",
+          "icon": "play-circle-outline",
+          "action": "link:https://web.nuvioapp.space"
+        }
+      ]
+    }
+  ]
+}
 
