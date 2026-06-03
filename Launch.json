@@ -1,12 +1,11 @@
 {
-  "type": "list",
   "headline": "Nuvio Portal",
-  "items": [
+  "menu": [
     {
-      "title": "Click Here to Launch Nuvio App",
       "icon": "play-circle-outline",
+      "label": "Launch Nuvio App",
+      "execute": true,
       "action": "link:https://web.nuvioapp.space"
     }
   ]
 }
-
