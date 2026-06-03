@@ -2,9 +2,19 @@
   "headline": "Nuvio Portal",
   "menu": [
     {
-      "icon": "public",
-      "label": "Launch Nuvio App",
-      "action": "link:https://tv.strem.io"
+      "icon": "language",
+      "label": "Nuvio App",
+      "data": {
+        "type": "pages",
+        "items": [
+          {
+            "type": "button",
+            "icon": "play-circle-outline",
+            "label": "Click Here to Launch Nuvio",
+            "action": "link:https://web.nuvioapp.space"
+          }
+        ]
+      }
     }
   ]
 }
