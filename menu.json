@@ -11,7 +11,7 @@
             "type": "button",
             "icon": "play-circle-outline",
             "label": "Click Here to Launch Nuvio",
-            "action": "link:https://web.nuvioapp.space"
+            "action": "link:https://www.rivestream.app/"
           }
         ]
       }
